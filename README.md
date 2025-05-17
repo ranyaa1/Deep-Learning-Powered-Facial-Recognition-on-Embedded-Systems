@@ -1,8 +1,9 @@
 # Deep-Learning-Powered-Facial-Recognition-on-Embedded-Systems
-![Image](https://github.com/user-attachments/assets/76887e65-3612-4b19-8c18-ecedb04f221a)
-![Image](https://github.com/user-attachments/assets/4a6486e6-dfbf-4b83-b675-f4285615611d)
-![Image](https://github.com/user-attachments/assets/13a66bde-5eec-4bc0-99e6-aadd98f96c7d)
-![Image](https://github.com/user-attachments/assets/996c862e-1a98-4852-939e-dc0905706008)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7368bb9a-ad2a-4950-848d-99ad7d6752e2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/c33a770d-9b7c-4119-91c0-afb1c0bba33d" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b91d2cdd-c5e3-4ef6-ba30-e182fb294640" width="250"/>
+</p>
 
 🚀 A Deep Learning-Based Facial Recognition Attendance System on STM32F7 Microcontroller
 
