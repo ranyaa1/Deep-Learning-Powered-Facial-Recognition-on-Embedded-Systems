@@ -1,5 +1,8 @@
 # Deep-Learning-Powered-Facial-Recognition-on-Embedded-Systems
-# SmartAttendanceSTM32
+![Image](https://github.com/user-attachments/assets/76887e65-3612-4b19-8c18-ecedb04f221a)
+![Image](https://github.com/user-attachments/assets/4a6486e6-dfbf-4b83-b675-f4285615611d)
+![Image](https://github.com/user-attachments/assets/13a66bde-5eec-4bc0-99e6-aadd98f96c7d)
+![Image](https://github.com/user-attachments/assets/996c862e-1a98-4852-939e-dc0905706008)
 
 🚀 A Deep Learning-Based Facial Recognition Attendance System on STM32F7 Microcontroller
 
